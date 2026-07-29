@@ -35,7 +35,7 @@ This project used a multi-table e-commerce relational dataset.
 ## 🛠 Tools Used
 - SQL (MySQL) → Data cleaning, joins, KPI dataset creation
 - Power BI → Dashboard development & DAX measures
-- Microsoft Fabric, Power BI Service, On-premises Gateway, Scheduled Refresh
+- Power BI Service → Microsoft Fabric, Power BI Service, On-premises Gateway, Scheduled Refresh
 - Excel / CSV → Raw data source
 - GitHub → Documentation & project versioning
 
